@@ -40,7 +40,7 @@ body 		{
 			{
 				height: 300px;
 				width: 300px;
-				position: relative;
+				position: initial;
 				margin: 300px auto;
 			}
 
