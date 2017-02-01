@@ -1,3 +1,5 @@
+
+
 body 		{
 				background: #8C584D;
 				font-family: Garamond;
@@ -19,8 +21,8 @@ body 		{
 #h1
 			{
 				color: black;
-				font-family: Helvetica;
-				font-size: 36pt;
+				font-family: Garamond;
+				font-size: 48pt;
 				text-align: center;
 			}
 			
